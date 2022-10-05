@@ -1,4 +1,4 @@
-package com.webscraping.models;
+package com.bidding.models;
 
 import lombok.Data;
 

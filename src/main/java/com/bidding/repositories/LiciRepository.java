@@ -1,6 +1,6 @@
-package com.webscraping.repositories;
+package com.bidding.repositories;
 
-import com.webscraping.models.LiciModel;
+import com.bidding.models.LiciModel;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

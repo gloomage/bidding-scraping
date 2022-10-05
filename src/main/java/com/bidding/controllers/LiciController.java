@@ -1,7 +1,7 @@
-package com.webscraping.controllers;
+package com.bidding.controllers;
 
-import com.webscraping.models.LiciModel;
-import com.webscraping.services.LiciService;
+import com.bidding.models.LiciModel;
+import com.bidding.services.LiciService;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.CrossOrigin;

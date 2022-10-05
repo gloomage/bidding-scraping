@@ -1,7 +1,7 @@
-package com.webscraping.services;
+package com.bidding.services;
 
-import com.webscraping.models.LiciModel;
-import com.webscraping.repositories.LiciRepository;
+import com.bidding.models.LiciModel;
+import com.bidding.repositories.LiciRepository;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
