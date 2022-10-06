@@ -23,9 +23,4 @@ public class LiciController {
         this.liciService = liciService;
     }
 
-    @GetMapping
-    public ResponseEntity<List<LiciModel>> extrarLicitacoes() throws IOException {
-        return ResponseEntity.status(HttpStatus.OK).body(liciService.extrairLicitacoes());
-    }
-
 }
